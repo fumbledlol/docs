@@ -13,13 +13,13 @@
       {
         "tab": "Guides",
         "pages": [
-          "guides/troubleshooting",
           {
             "group": "Getting started",
             "pages": [
               "index"
             ]
-          }
+          },
+          "guides/troubleshooting"
         ]
       },
       {
